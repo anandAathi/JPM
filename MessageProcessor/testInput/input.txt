@@ -104,3 +104,4 @@ apple at 0.10
 banana at 0.10
 20 sales of cherries at 0.10 each
 20 sales of apples at 0.10 each
+20 sales of bananas at 0.10 each
