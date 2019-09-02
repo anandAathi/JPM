@@ -1,0 +1,106 @@
+apple at 0.10
+20 sales of apples at 0.10 each
+Add 0.20 apples
+apple at 0.10
+20 sales of apples at 0.10 each
+Add 0.20 apples
+apple at 0.10
+20 sales of bananas at 0.10 each
+banana at 0.10
+20 sales of cherries at 0.10 each
+cherry at 0.10
+20 sales of oranges at 0.10 each
+orange at 0.10
+20 sales of pineapples at 0.10 each
+pineapple at 0.10
+5 sales of strawberries at 0.05 each
+strawberry at 0.05
+2 sales of grapes at 0.15 each
+grapes at 0.15
+Watermelon at 0.20
+25 sales of watermelons at 0.20 each
+apple at 0.10
+Add 0.02 pineapples
+Add 0.03 bananas
+Subtract 0.05 apples
+apple at 0.10
+20 sales of apples at 0.10 each
+Add 0.20 apples
+apple at 0.10
+20 sales of apples at 0.10 each
+Add 0.20 apples
+apple at 0.10
+20 sales of bananas at 0.10 each
+banana at 0.10
+20 sales of cherries at 0.10 each
+cherry at 0.10
+20 sales of oranges at 0.10 each
+orange at 0.10
+20 sales of pineapples at 0.10 each
+pineapple at 0.10
+5 sales of strawberries at 0.05 each
+apple at 0.10
+20 sales of apples at 0.10 each
+Multiply 0.20 strawberries
+apple at 0.10
+20 sales of bananas at 0.10 each
+banana at 0.10
+Add 0.05 pineapples
+Subtract 0.05 cherries
+12 sales of grapes
+20 sales of cherries at 0.10 each
+cherry at 0.10
+20 sales of oranges at 0.10 each
+orange at 0.10
+20 sales of pineapples at 0.10 each
+pineapple at 0.10
+5 sales of strawberries at 0.05 each
+apple at 0.10
+20 sales of apples at 0.10 each
+Add 0.20 apples
+apple at 0.10
+20 sales of apples at 0.10 each
+Add 0.20 apples
+apple at 0.10
+20 sales of bananas at 0.10 each
+banana at 0.10
+20 sales of cherries at 0.10 each
+cherry at 0.10
+20 sales of oranges at 0.10 each
+orange at 0.10
+20 sales of pineapples at 0.10 each
+pineapple at 0.10
+5 sales of strawberries at 0.05 each
+20 sales of apples at 0.10 each
+Add 0.20 apples
+apple at 0.10
+20 sales of bananas at 0.10 each
+banana at 0.10
+20 sales of cherries at 0.10 each
+20 sales of apples at 0.10 each
+Add 0.20 apples
+apple at 0.10
+20 sales of bananas at 0.10 each
+banana at 0.10
+20 sales of cherries at 0.10 each
+20 sales of apples at 0.10 each
+Add 0.20 apples
+apple at 0.10
+20 sales of bananas at 0.10 each
+banana at 0.10
+20 sales of cherries at 0.10 each
+pineapple at 0.10
+5 sales of strawberries at 0.05 each
+20 sales of apples at 0.10 each
+Add 0.20 apples
+apple at 0.10
+20 sales of bananas at 0.10 each
+banana at 0.10
+20 sales of cherries at 0.10 each
+20 sales of apples at 0.10 each
+Add 0.20 apples
+apple at 0.10
+20 sales of bananas at 0.10 each
+banana at 0.10
+20 sales of cherries at 0.10 each
+20 sales of apples at 0.10 each
